@@ -1,6 +1,4 @@
-PyMuPDF 
-langchain 
-streamlit 
-groq 
-langchain-community
+groq
 pymupdf
+scikit-learn
+streamlit
